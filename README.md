@@ -1,6 +1,8 @@
 # Recipe-App
 link : https://kaushik-jagani.github.io/Recipe-App/
 
+#REFRESH THE PAGE FOR SEE YOUR ADDED FAVIROITE ITEMS BUCKET.
+
 functionality:
 -> search using
   dish name 
