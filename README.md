@@ -17,3 +17,7 @@ functionality:
 
 follow me on linkdin
 https://www.linkedin.com/in/kaushik-jagani-119091202/
+
+
+![image](https://user-images.githubusercontent.com/83937846/217259578-1ad0ca9b-f29f-4b57-bdaf-b0a9fedab37f.png)
+![image](https://user-images.githubusercontent.com/83937846/217259846-21b10f71-b50f-48d6-ae07-803c06c31796.png)
